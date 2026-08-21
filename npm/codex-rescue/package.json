@@ -2,6 +2,22 @@
   "name": "codex-rescue",
   "version": "0.1.0-alpha.7",
   "description": "Read-only-first diagnostics and recovery tooling for OpenAI Codex local sessions",
+  "keywords": [
+    "codex",
+    "openai-codex",
+    "codex-cli",
+    "session-recovery",
+    "crash-recovery",
+    "data-recovery",
+    "forensics",
+    "diagnostics",
+    "salvage",
+    "jsonl",
+    "local-first",
+    "developer-tools",
+    "cli",
+    "ai-coding"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
